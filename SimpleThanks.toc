@@ -8,6 +8,7 @@
 ## X-License: MIT
 ## IconTexture: Interface\Icons\Spell_Holy_GreaterBlessingofKings
 ## AddonCompartmentFunc: SimpleThanks_OnCompartmentClick
+## X-Curse-Project-ID: 1818451
 
 Core.lua
 Options.lua
