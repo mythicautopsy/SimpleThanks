@@ -1,0 +1,9 @@
+package-as: SimpleThanks
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
+
+ignore:
+  - .github
+  - SimpleThanks-logo-400.png
