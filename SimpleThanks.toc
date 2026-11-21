@@ -1,0 +1,13 @@
+## Interface: 16001
+## Title: SimpleThanks
+## Notes: Automatically thanks players who buff you, with a simple options window (/simplethanks).
+## Author: mythicautopsy - The Monsoon Brigade @ Alliance PVE
+## Version: 1.0.0
+## SavedVariables: SimpleThanksDB
+## X-Website: https://github.com/mythicautopsy/SimpleThanks
+## X-License: MIT
+## IconTexture: Interface\Icons\Spell_Holy_GreaterBlessingofKings
+## AddonCompartmentFunc: SimpleThanks_OnCompartmentClick
+
+Core.lua
+Options.lua
