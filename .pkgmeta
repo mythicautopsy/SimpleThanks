@@ -7,3 +7,4 @@ manual-changelog:
 ignore:
   - .github
   - SimpleThanks-logo-400.png
+  - CLAUDE.md
